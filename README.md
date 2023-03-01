@@ -1,2 +1,2 @@
 
-CI is old but It's my friend.
+CI is old but It's my friend
